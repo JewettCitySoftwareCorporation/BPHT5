@@ -1,4 +1,103 @@
-<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>BPHT5 Action Steps</title>
+    <meta name="description" content="BPHT5 Action Steps">
+    <meta name="author" content="Luke@jcsc.biz">
+
+    <link rel="stylesheet" href="css/Splash_styles.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href='http://fonts.googleapis.com/css?family=Oswald:400,700|Open+Sans:400italic,600italic,700italic,400,600,700' rel='stylesheet' type='text/css'>
+    <meta name="viewport" content="width=800, user-scalable=no">
+
+    <link href='http://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+
+    <link rel="stylesheet" href="css/demo.css">
+
+
+
+    <link rel="stylesheet" href="css/normalize.css">
+
+
+    <style>
+        /**
+ * Footer Styles
+ */
+        
+        h6 {
+            color: darkcyan;
+            background: white;
+            display: block;
+        }
+        
+        .footer {
+            position: absolute;
+            right: 0;
+            bottom: 0;
+            left: 0;
+            padding: 0;
+            background-color: #efefef;
+            text-align: center;
+        }
+        /* NOTE: The styles were added inline because Prefixfree needs access to your styles and they must be inlined if they are on local disk! */
+    </style>
+
+
+
+
+    <script src="js/prefixfree.min.js"></script>
+    <!--[if lt IE 9]>
+  	<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+</head>
+
+<body>
+    <div class="meny">
+        <h2>Project Links</h2>
+        <ul>
+            <li><a href="login.html">Log In</a></li>
+            <li><a href="loading.html">Loading</a></li>
+            <li><a href="cabode.html">Home</a></li>
+            <li><a href="BP-Index.html">Table of Contents</a></li>
+            <li><a href="index.html">BPHT5 Plan</a></li>
+            <li><a href="support.html">Support</a></li>
+            <li><a href="BreakEvenPoint.html">Break Even Point</a></li>
+            <li><a href="anatomy-of-a-pitch.html">Anatomy of a Pitch</a></li>
+            <li><a href="ActionSteps.html">Action Steps</a></li>
+            <li><a href="https://datastudio.google.com/u/0/#/org//reporting/0B3KavpYxixKGdzhTS3lZWjZON2M/page/1M">Usage Report</a></li>
+            <li><a href="businessintegration.html">Business Integration</a></li>
+            <li><a href="Task List.html">Task List</a>
+        </ul>
+    </div>
+
+    <div class="meny-arrow"></div>
+    <div class="splash fade-in">
+        <h1 class="splash-title fade-in">Jewett City Software Coporation</h1>
+        <h6>BPHT5.com => { Business Plan HTML Templates by: Luke@jcsc.biz }</h6>
+        <a href="#" class="splash-arrow fade-in"><img src="img/down-arrow.png" alt="" /></a>
+    </div>
+    <div class="contents">
+        <header class="navbar-wrapper">
+            <h1><a href="#">Business Plan Templates: HTML5</a></h1>
+            <nav>
+                <ul>
+                    <li><a href="BP-Index.html">Home</a></li>
+                    <li><a href="#">About</a></li>
+                    <li><a href="#" class="active">Action Steps</a></li>
+                    <li><a href="#">Contact</a></li>
+                </ul>
+            </nav>
+        </header>
+
+        <section id="main-content">
+
+
+
+            <article>
+
+                <svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
  <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
  <g>
   <title>Layer 1</title>
@@ -34,3 +133,88 @@
   <path stroke="#000000" transform="rotate(-16.9206 316.306 435.732)" id="svg_80" d="m355.52832,476.886902l2.160614,-10.838959l-25.421753,-1.891235c-64.363647,-4.776947 -127.451172,-25.03244 -162.579407,-52.19989c-6.306351,-4.875488 -10.521667,-9.568542 -9.375565,-10.435486c2.632874,-1.984039 66.724884,-17.789764 72.144608,-17.789764c2.2099,0 7.51738,2.904449 11.796753,6.456512c18.260834,15.154541 65.503723,30.960693 98.770844,33.040802l13.486298,0.844208l-2.319824,-9.367889c-2.401703,-9.730804 -1.728058,-11.778076 3.898407,-11.778076c3.60498,0 111.095673,37.359222 114.166901,39.681854c2.330017,1.758911 -12.454712,8.284027 -65.387573,28.863098c-22.99231,8.944153 -44.438293,16.259491 -47.653046,16.259491c-5.14505,0 -5.592651,-1.297974 -3.687256,-10.844666l0,0z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#aad4ff"/>
  </g>
 </svg>
+
+
+
+            </article>
+
+
+        </section>
+        <!-- This footer will always be positioned at the bottom of the page, but <strong>not fixed</strong>.</div> -->
+
+        <div class="footer">
+            <small>
+					&copy; 2015  ~  Created by:: Luke<a href="http://jcsc.biz">@jcsc.biz</a>
+				</small></div>
+
+
+        <script src="js/meny.min.js"></script>
+        <script>
+            // Create an instance of Meny
+            var meny = Meny.create({
+                // The element that will be animated in from off screen
+                menuElement: document.querySelector('.meny'),
+
+                // The contents that gets pushed aside while Meny is active
+                contentsElement: document.querySelector('.contents'),
+
+                // [optional] The alignment of the menu (top/right/bottom/left)
+                position: Meny.getQuery().p || 'left',
+
+                // [optional] The height of the menu (when using top/bottom position)
+                height: 200,
+
+                // [optional] The width of the menu (when using left/right position)
+                width: 260,
+
+                // [optional] Distance from mouse (in pixels) when menu should open
+                threshold: 40,
+
+                // [optional] Use mouse movement to automatically open/close
+                mouse: true,
+
+                // [optional] Use touch swipe events to open/close
+                touch: true
+            });
+
+            // API Methods:
+            // meny.open();
+            // meny.close();
+            // meny.isOpen();
+
+            // Events:
+            // meny.addEventListener( 'open', function(){ console.log( 'open' ); } );
+            // meny.addEventListener( 'close', function(){ console.log( 'close' ); } );
+
+            // Embed an iframe if a URL is passed in
+            if (Meny.getQuery().u && Meny.getQuery().u.match(/^http/gi)) {
+                var contents = document.querySelector('.contents');
+                contents.style.padding = '0px';
+                contents.innerHTML = '<div class="cover"></div><iframe src="' + Meny.getQuery().u + '" style="width: 100%; height: 100%; border: 0; position: absolute;"></iframe>';
+            }
+        </script>
+        <script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+        <script src="js/index.js"></script>
+
+        <script>
+            (function(i, s, o, g, r, a, m) {
+                i['GoogleAnalyticsObject'] = r;
+                i[r] = i[r] || function() {
+                    (i[r].q = i[r].q || []).push(arguments)
+                }, i[r].l = 1 * new Date();
+                a = s.createElement(o),
+                    m = s.getElementsByTagName(o)[0];
+                a.async = 1;
+                a.src = g;
+                m.parentNode.insertBefore(a, m)
+            })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+            ga('create', 'UA-78768369-2', 'auto');
+            ga('send', 'pageview');
+        </script>
+
+        <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+        <script type="text/javascript" src="js/main.js"></script>
+</body>
+
+</html>
