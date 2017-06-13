@@ -8,7 +8,8 @@ Built by: Luke@jcsc.biz
 Business Plan HTML Templates 5
 
 
-** If you downloaded or forked this code:: [Go HERE!](BPHT5.com)  -- <= Fix Latter
+** If you downloaded or forked this code:: [Go HERE!](BPHT5.com)  -- <= Fix Latter<br />
+** If you plan on hosting this code on a pblicly facing server:: [Go HERE!](BPHT5.com/LICENSE.md) 
 
 
 # ##WORKING SAMPLES::
