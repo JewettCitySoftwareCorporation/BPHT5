@@ -2,11 +2,11 @@ Built by: Luke@jcsc.biz
  ┬┌─┐┌─┐┌─┐ ┌┐ ┬┌─┐
  ││  └─┐│   ├┴┐│┌─┘
 └┘└─┘└─┘└─┘o└─┘┴└─┘
-                   
-               
+ 
 
-# BPHT5
+# BPHT5  &copy;
 Business Plan HTML Templates 5
+
 
 ** If you downloaded or forked this code:: [Go HERE!](BPHT5.com)  -- <= Fix Latter
 
@@ -44,18 +44,18 @@ We have not yet released every template, but we are working on some changes that
 ******************************************************************************************************
 
 
-This project will remain OPEN.  Hosted on [GitHub](BPHT5.com) & [NeoCities](DEMO.BPHT5.com) 
+This project will remain OPEN.  Hosted on [GitHub  &copy;](BPHT5.com) & [NeoCities  &copy;](DEMO.BPHT5.com) 
 
 The [BPHT5 Project Managment Site](project.BPHT5.com)  -- is the area I created to help me mange this project.
 
 
-This is a static template project to scaffold out ideas, rapid prototypes and bring a faster development time for internal projects at [jcsc.biz](jcsc.biz) this project is also a marketing attempt to help people realize a business plan can be nothing more than a complicated html file, and if you are afraid of making the changes need to get your idea, please! Let us know!!!  Tell us: [jcsc.biz](jcsc.biz) to do it for you!
+This is a static template project to scaffold out ideas, rapid prototypes and bring a faster development time for internal projects at [jcsc.biz  &copy;](jcsc.biz) this project is also a marketing attempt to help people realize a business plan can be nothing more than a complicated html file, and if you are afraid of making the changes need to get your idea, please! Let us know!!!  Tell us: [Luke@jcsc.biz](mailto:Luke@jcsc.biz) to do it for you!
 
 By being open we build and test this platform on open products and ensure that any part that makes it way in is open.  the tools we use to build updates, chages, ect are open.  There are costs to maintian this project, it is not FREE!!!!  I have another 360 days or so to try and facilitate the a positive ROI for this project but the time & efforts saved on building new projects and manging these projects is shorting as I improve this toolset.
 
-I say static not that it won't hae updates, we are working on a bunch!!, but there is no 'magic' just CSS JavaScript and the power brought to us by web-browsers.  The only 3rd party code is [Google Analitics](https://datastudio.google.com/u/0/org//reporting/0B3KavpYxixKGdzhTS3lZWjZON2M/page/1M) , other than that everything these files need are included with the source.  Enabling this project work where ever you put it.  Please see the [LICENSE.md](LICENSE.md) if you plan to host this code on a #PUBLICLY facing server!  While this is an open project we are going to build in a LICENSING system to provive for the future of this project.
+I say static not that it won't hae updates, we are working on a bunch!!, but there is no 'magic' just CSS JavaScript and the power brought to us by web-browsers.  The only 3rd party code is [Google Analitics &copy;](https://datastudio.google.com/u/0/org//reporting/0B3KavpYxixKGdzhTS3lZWjZON2M/page/1M) , other than that everything these files need are included with the source.  Enabling this project work where ever you put it.  Please see the [LICENSE.md](LICENSE.md) if you plan to host this code on a #PUBLICLY facing server!  While this is an open project we are going to build in a LICENSING system to provive for the future of this project.
 
 
 # There is a planned STAGE-2:
 
-This will be a Plan Builder, not-yet released thank the angular team!,  But this project will enable you to build your plan and export single or multiple files, organized in a neat little .zip ready for deploment.  But, .... .... Work still needs to be done!!!  This Plan builder will be based from this project, and be a adjunct product to help BPHT5 become a better product.
+This will be a Plan Builder, not-yet released thank the angular team!,  But this project will enable you to build your plan and export single or multiple files, organized in a neat little .zip ready for deploment.  But, .... .... Work still needs to be done!!!  This Plan builder will be based from this project, and be a adjunct product to help BPHT5  &copy; become a better product.
